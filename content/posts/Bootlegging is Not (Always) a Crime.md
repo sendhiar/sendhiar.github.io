@@ -70,6 +70,10 @@ Untuk di ranah lokal, ada juga sebuah brand _bootleg_ yang pada akhirnya mendapa
 
 > _Ada lagi momen lain ketika **Cornelius** ke Indonesia. Dia pengen baju PTP karena liat Ricky Virgana (WSATCC) pake, bahkan sampai di-post ke IG Stories-nya. Setelahnya dia kepoin tuh katalog PTP, dan momen surreal lainnya adalah ketika dia pengen ngasih kaos desain bergambar Haruomi Hasono ke Hasono-san langsung. Aneh banget lah pokoknya,” ungkap Tama._
 
+> _“Salah satu yang paling berkesan adalah ketika drummer-nya **Fishmans**, Kin-Ichi Motegi, pakai baju PTP yang ‘Night Cruising’ -artikel produk yang memang didedikasikan untuk Fishmans. Surreal banget rasanya. Dia bilang happy banget dapet baju itu. Aku sampai cirambay pas dapet chat dan fotonya._
+
+_Ada lagi momen lain ketika **Cornelius** ke Indonesia. Dia pengen baju PTP karena liat Ricky Virgana (WSATCC) pake, bahkan sampai di-post ke IG Stories-nya. Setelahnya dia kepoin tuh katalog PTP, dan momen surreal lainnya adalah ketika dia pengen ngasih kaos desain bergambar Haruomi Hasono ke Hasono-san langsung. Aneh banget lah pokoknya,” ungkap Tama._''
+
 Pada beberapa kesempatan juga PTP ternyata berkorespondensi langsung dengan musisi terkait sebelum memproduksi sebuah desain. Meskipun hal tersebut nggak selalu dilakukan.
 
 > _“Aku pernah kolaborasi sama Margo Guryan. Waktu itu kita kontak karena IG-nya masih aktif dan ternyata yang pegang anaknya. Akhirnya terjadi kesepakatan bisnis dan sepakat pakai sistem sharing profit. Selain itu, ada juga Azymuth dan Cortex yang sempet kita kontak. Biasanya kalau musisinya masih aktif dan ada representatifnya, pasti kita kontak._

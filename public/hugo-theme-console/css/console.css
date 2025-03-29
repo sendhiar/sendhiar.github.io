@@ -285,6 +285,30 @@ figure {
     margin-bottom: 10px;
 }
 
+/* Style for post metadata */
+.post-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px; /* Add spacing below the metadata */
+    font-size: 0.9em; /* Adjust font size if needed */
+    color: white;
+}
+
+.post-meta-left {
+    text-align: left;
+}
+
+.post-meta-right {
+    text-align: right;
+}
+
+.post-meta-right a {
+    color: var(--primary-color); /* Ensure links are styled properly */
+    text-decoration: none;
+    margin-left: 5px; /* Add spacing between links */
+}
+
 .posts-list {
     position: relative;
     padding-left: 130px;
