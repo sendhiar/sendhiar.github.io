@@ -28,9 +28,7 @@ Tapi di sisi lain, saya menemukan sesuatu yang menarik pada momen keriuhan kemar
 
 Sebelum lebih jauh membahas perbedaan antara _bootleg_ dan _fake_, mari kita sepakati dahulu bersama terkait apa yang dimaksud dengan merchandise _official_. Suatu merchandise dikatakan _official_ jika memang diproduksi berdasarkan izin dan sepengetahuan musisi terkait. Secara fisik, biasanya tersemat sablon/tag tertentu yang menandakan kalau apa yang diproduksi merupakan merchandise _official._
 
-Sedangkan merchandise _fake_ adalah kebalikannya. Selain dirilis tanpa sepengetahuan ataupun izin dari musisi, secara kualitas produk pun tak bisa dipertanggungjawabkan.
-
-> Harga jual yang murah jadi daya tarik terbesar dari keberadaan merchandise _fake_ ini.
+Sedangkan merchandise _fake_ adalah kebalikannya. Selain dirilis tanpa sepengetahuan ataupun izin dari musisi, secara kualitas produk pun tak bisa dipertanggungjawabkan. Harga jual yang murah jadi daya tarik terbesar dari keberadaan merchandise fake ini.
 
 Meskipun sebenarnya secara produksi dilakukan secara asal-asalan lengkap dengan QC seadanya. Sehingga menghasilkan produk dengan posisi desain yang miring, sablonnya berantakan, bahan kaos yang kurang nyaman, ataupun beragam masalah lainnya.
 
@@ -48,7 +46,7 @@ Sedangkan merchandise _bootleg_ memiliki _attitude_ dan motif berbeda dibanding 
 
 Baik menggunakan aset foto _existing_ yang tersebar di internet lalu diolah sedemikian rupa, ataupun desain yang memang dibuat _from the ground up_. Selain itu, ada juga beberapa _bootlegger_ yang menjalin komunikasi terlebih dahulu dengan sang artis, untuk meminta izin atau sekedar berkorespondensi sebelum akhirnya merilis produk _bootleg_ tersebut. Sebuah _attitude_ pembeda yang kentara dibanding para produsen merchandise _fake._
 
-> Merchandise _bootleg_ biasanya secara terang-terangan dipasarkan dengan keterangan jelas sebagai _unofficial_ merchandise. Tak seperti merchandise _fake_ yang biasanya diberi embel-embel “kualitas premium” atau lainnya untuk memberi kesan sebagai barang _official_.
+Merchandise bootleg biasanya secara terang-terangan dipasarkan dengan keterangan jelas sebagai unofficial merchandise. Tak seperti merchandise fake yang biasanya diberi embel-embel “kualitas premium” atau lainnya untuk memberi kesan sebagai barang official.
 
 Secara garis besar, bisa disimpulkan bahwa _bootleg_ dan _fake_ memang sama-sama diproduksi oleh individu atau kelompok di luar lingkaran si musisi itu sendiri. Tapi, apakah hal tersebut cukup untuk dijadikan alasan dan membuat keduanya menjadi sesuatu yang sangat diharamkan dan dibenci oleh semua musisi?
 
@@ -68,31 +66,29 @@ Untuk di ranah lokal, ada juga sebuah brand _bootleg_ yang pada akhirnya mendapa
 
 ![](https://cdn-images-1.medium.com/max/716/1*PHNk3Xs5EFGxVQfUlWwIXQ.png)
 
-> “Salah satu yang paling berkesan adalah ketika drummer-nya **Fishmans**, Kin-Ichi Motegi, pakai baju PTP yang ‘Night Cruising’ -artikel produk yang memang didedikasikan untuk Fishmans. Surreal banget rasanya. Dia bilang happy banget dapet baju itu. Aku sampai cirambay pas dapet chat dan fotonya.
+> _“Salah satu yang paling berkesan adalah ketika drummer-nya **Fishmans**, Kin-Ichi Motegi, pakai baju PTP yang ‘Night Cruising’ -artikel produk yang memang didedikasikan untuk Fishmans. Surreal banget rasanya. Dia bilang happy banget dapet baju itu. Aku sampai cirambay pas dapet chat dan fotonya._
 
-> Ada lagi momen lain ketika **Cornelius** ke Indonesia. Dia pengen baju PTP karena liat Ricky Virgana (WSATCC) pake, bahkan sampai di-post ke IG Stories-nya. Setelahnya dia kepoin tuh katalog PTP, dan momen surreal lainnya adalah ketika dia pengen ngasih kaos desain bergambar Haruomi Hasono ke Hasono-san langsung. Aneh banget lah pokoknya,” ungkap Tama.
+> _Ada lagi momen lain ketika **Cornelius** ke Indonesia. Dia pengen baju PTP karena liat Ricky Virgana (WSATCC) pake, bahkan sampai di-post ke IG Stories-nya. Setelahnya dia kepoin tuh katalog PTP, dan momen surreal lainnya adalah ketika dia pengen ngasih kaos desain bergambar Haruomi Hasono ke Hasono-san langsung. Aneh banget lah pokoknya,” ungkap Tama._
 
 Pada beberapa kesempatan juga PTP ternyata berkorespondensi langsung dengan musisi terkait sebelum memproduksi sebuah desain. Meskipun hal tersebut nggak selalu dilakukan.
 
-> “Aku pernah kolaborasi sama Margo Guryan. Waktu itu kita kontak karena IG-nya masih aktif dan ternyata yang pegang anaknya. Akhirnya terjadi kesepakatan bisnis dan sepakat pakai sistem sharing profit. Selain itu, ada juga Azymuth dan Cortex yang sempet kita kontak. Biasanya kalau musisinya masih aktif dan ada representatifnya, pasti kita kontak.
+> _“Aku pernah kolaborasi sama Margo Guryan. Waktu itu kita kontak karena IG-nya masih aktif dan ternyata yang pegang anaknya. Akhirnya terjadi kesepakatan bisnis dan sepakat pakai sistem sharing profit. Selain itu, ada juga Azymuth dan Cortex yang sempet kita kontak. Biasanya kalau musisinya masih aktif dan ada representatifnya, pasti kita kontak._
 
-> Semua itu kembali lagi ke manifesto dari PTP, yaitu ‘another way to pay a tribute to our idol.’ Karena sedari awal tujuannya memang buat pay a tribute aja. Jadi menurutku penting untuk jalin komunikasi sebelumnya kalau memang musisi yang bakalan di-bootleg itu masih aktif atau ngeluarin merchandise sendiri, ” tambahnya.
+> _Semua itu kembali lagi ke manifesto dari PTP, yaitu ‘another way to pay a tribute to our idol.’ Karena sedari awal tujuannya memang buat pay a tribute aja. Jadi menurutku penting untuk jalin komunikasi sebelumnya kalau memang musisi yang bakalan di-bootleg itu masih aktif atau ngeluarin merchandise sendiri, ” tambahnya._
 
 Sebagai orang timur yang sangat menjunjung tinggi adab kesopanan, tentunya _attitude_ tersebut juga seharusnya dilakukan oleh para _bootlegger_ lokal lainnya. Sebagai bentuk _respect_ kepada sang idola. Sedangkan terkait kultur merchandise _bootleg_ di ranah lokal, Tama punya pendapatnya sendiri.
 
-> “Menurutku, mungkin kultur bootleg di Indonesia belum seterbuka di US atau di negara lain. CMIIW. Kalau di sana banyak banget yang jualan bootleg dan dapet apresiasi dari audiensnya, karena sebagai bentuk apresiasi atau fanatisme ke suatu band aja.
+> _“Menurutku, mungkin kultur bootleg di Indonesia belum seterbuka di US atau di negara lain. CMIIW. Kalau di sana banyak banget yang jualan bootleg dan dapet apresiasi dari audiensnya, karena sebagai bentuk apresiasi atau fanatisme ke suatu band aja._
 
-> Makanya banyak merchandise yang dibuat itu memang musisi yang udah nggak aktif lagi, emang nggak ngeluarin merch, atau karena harganya udah terlalu mahal. Belum lagi masih banyak yang belum bisa membedakan pengertian antara term bootleg dan fake, itu jadi kekhawatiran aku juga, sih.
+> _Makanya banyak merchandise yang dibuat itu memang musisi yang udah nggak aktif lagi, emang nggak ngeluarin merch, atau karena harganya udah terlalu mahal. Belum lagi masih banyak yang belum bisa membedakan pengertian antara term bootleg dan fake, itu jadi kekhawatiran aku juga, sih._
 
-> Tapi banyak banget kok brand bootleg yang bagus di sini, kayak [Conbini](https://www.instagram.com/conbinistyle/), [Teenagebomb](https://www.instagram.com/teenagebomb___/), dan lainnya. Keliatan banget kok antara yang beneran suka dengan yang nge-fake aja. Kalau yang beneran suka itu kerasa lebih sincere aja gitu,” ungkap Tama soal kultur bootleg di Indonesia.
+> _Tapi banyak banget kok brand bootleg yang bagus di sini, kayak [Conbini](https://www.instagram.com/conbinistyle/), [Teenagebomb](https://www.instagram.com/teenagebomb___/), dan lainnya. Keliatan banget kok antara yang beneran suka dengan yang nge-fake aja. Kalau yang beneran suka itu kerasa lebih sincere aja gitu,” ungkap Tama soal kultur bootleg di Indonesia._
 
 Siapa sangka sesuatu yang dimulai sebagai pengisi waktu luang di era pandemi, bisa membawa PTP sejauh ini. Bahkan bukan hanya membuat desain _bootleg_, mereka juga telah bekerja sama dengan beberapa band lokal dan internasional untuk menggarap _official_ merchandise-nya. Beberapa musisi tersebut di antaranya adalah Pearl & the Oysters, Jacuzzi Boys, Nude Party, WSATCC, Dongker, dan lainnya.
 
 ---
 
-Pada dasarnya, merchandise _bootleg_ dan _fake_ merupakan dua hal yang berbeda. Meskipun terdapat kesamaan dari sisi produksi yang masuk kategori _unofficial_, ada beberapa perbedaan dari sisi _attitude,_ proses, dan juga motif ketika melakukannya.
-
-> Merchandise _bootleg_ jika mengikuti koridor tertentu bisa jadi suatu bentuk apresiasi lain sebagai penggemar untuk para musisi idola.
+Pada dasarnya, merchandise _bootleg_ dan _fake_ merupakan dua hal yang berbeda. Meskipun terdapat kesamaan dari sisi produksi yang masuk kategori _unofficial_, ada beberapa perbedaan dari sisi _attitude,_ proses, dan juga motif ketika melakukannya. Merchandise _bootleg_ jika mengikuti koridor tertentu bisa jadi suatu bentuk apresiasi lain sebagai penggemar untuk para musisi idola.
 
 Karena memiliki desain yang _personalized_ dan unik berdasarkan karakter dan kesukaan dari si pembuatnya. Meskipun ada juga beberapa pembahasan lain yang pada akhirnya menghasilkan _bootleg_ selalu berada di ranah abu-abu. Sedangkan untuk merchandise _fake_, tak ada hal baik yang dihasilkan darinya.
 

@@ -228,12 +228,34 @@ figure {
     margin-right: 60px;
 }
 
-.footer {
+/* OG footer */
+/* .footer {
     clear: both;
     margin-top: 50px;
     padding-top: 10px;
     border-top: 1px solid var(--secondary-color);
     color: var(--global-font-color);
+} */
+
+/* modified footer 1 */
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: space-between;
+    clear: both;
+    margin-top: 50px;
+    padding-top: 10px;
+    border-top: 1px solid var(--secondary-color);
+    color: var(--global-font-color);
+}
+
+.footer .left {
+    text-align: left;
+}
+
+.footer .right {
+    text-align: right;
 }
 
 .image-grid {

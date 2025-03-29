@@ -27,15 +27,13 @@ Berbeda dengan karakter musik midwest-emo yang muncul belakangan di Indonesia ya
 
 Teriakan mentah yang keluar seperti ketika sedang meluapkan amarah, _sound_ gitar yang _clean_ tanpa penggunaan efek bejibun untuk memanipulasi suaranya, hingga permainan drum yang enerjik, merupakan beberapa hal yang akan kamu temukan pada musik mereka. Walaupun saya yakin nggak semua di antara kamu menyukai ataupun familiar dengan jenis musik midwest-emo yang seperti ini. Tapi kalau buat saya personal, elemen-elemen tersebut lah yang membuat musiknya terasa sangat jujur dan personal.
 
-<iframe style="border: 0; width: 400px; height: 208px;" src="https://bandcamp.com/EmbeddedPlayer/album=31301482/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://woodcabingemaas.bandcamp.com/album/woodcabin-2013-demo">woodcabin. [2013 demo] by woodcabin.</a></iframe>
-_woodcabin. — demo. (self released, 2013)_
+> **Stream:** [woodcabin. - demo (2013, self-released)](https://woodcabingemaas.bandcamp.com/album/woodcabin-2013-demo)
 
 Selisih beberapa waktu dari kemunculan woodcabin., sebenarnya ada satu band lagi yang membawakan nuansa serupa pada musiknya. Mereka adalah [**What The Sparrow Did To You**](https://whatthesparrowdidtoyou.bandcamp.com/album/demo) yang kini para personilnya telah tersebar ke beberapa band, yaitu cubfires, Vvachrri, dan Bedchamber. Bahkan kedua band tersebut sempat berkoalisi untuk mengeluarkan album _split_ bertajuk ‘WxW’ (2014) yang dirilis oleh [Sailboat Records](https://sailboatrecords.bandcamp.com/). Selain itu, woodcabin. dan What The Sparrow Did To You juga merupakan pengisi dari album kompilasi yang memantik gelombang emo revival di Indonesia, yaitu ‘[Revolution Autumn](https://sailboatrecords.bandcamp.com/album/v-a-revolution-autumn)’ (2014). Sehingga, sah rasanya kalau menobatkan kedua band tersebut sebagai dua band midwest-emo pertama di Indonesia.
 
 Sayangnya, seperti band-band emo keren lainnya, umur mereka terbilang sangat singkat. Tercatat mereka terakhir mengeluarkan karya pada tahun 2014 dan manggung pada tahun 2016 di sebuah studio gigs di Bandung. Lalu kemudian hilang entah ke mana, tanpa alasan dan status yang jelas hingga saat ini. Apakah bubar? Hiatus panjang? Atau alasan lainnya? Entahlah. Melihat mereka kembali berkarya atau (lebih muluknya) manggung, bakalan jadi salah satu momen yang akan saya tunggu sampai kapanpun.
 
-<iframe style="border: 0; width: 400px; height: 274px;" src="https://bandcamp.com/EmbeddedPlayer/album=4270626830/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://sailboatrecords.bandcamp.com/album/wxw">WxW by Woodcabin. &amp; Whatthesparrowdidtoyou</a></iframe>
-_Album Split woodcabin. x What The Sparrow Did To You — WxW (Sailboat Records, 2014)_
+> **Stream:** [woodcabin. & whatthesparrowdidtoyou - WxW (2014, Sailboat Records)](https://sailboatrecords.bandcamp.com/album/wxw)
 
 Menurut saya, woodcabin. adalah sebuah band yang muncul terlalu cepat -atau mungkin bisa juga disebut _beyond_ (?)- sebelum akhirnya hilang tak berjejak. Coba aja kalau mereka muncul saat ini, di saat orang sudah banyak mengenal midwest-emo dan tertarik buat menguliknya lebih jauh. Saya rasa akan banyak orang yang menyukainya dan menunggu namanya untuk muncul di _flyer_ gigs-gigs di bawah tanah.
 

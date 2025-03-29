@@ -45,4 +45,4 @@ Dengan keberadaan sosial media, kini siapapun juga bisa menyampaikan pendapatnya
 
 ***
 
-_Tulisan ini sebelumnya telah diterbitkan di webzine Consumed Magazine pada Juli 2023. |_ [https://consumedmagazine.com/lika-liku-pemberian-nilai-pada-sebuah-review-rilisan-musik/](https://consumedmagazine.com/lika-liku-pemberian-nilai-pada-sebuah-review-rilisan-musik/)
+_Tulisan ini sebelumnya telah diterbitkan di webzine Consumed Magazine pada Juli 2023._ | [https://consumedmagazine.com/lika-liku-pemberian-nilai-pada-sebuah-review-rilisan-musik/](https://consumedmagazine.com/lika-liku-pemberian-nilai-pada-sebuah-review-rilisan-musik/)
