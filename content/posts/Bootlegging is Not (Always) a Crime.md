@@ -1,13 +1,22 @@
 ---
 title: Bootlegging is Not (Always) a Crime
 summary: Bootleg ≠ Fake. Tak semua pembajakan itu haram hukumnya. Pada kasus tertentu, "pembajakan" bisa berubah menjadi bentuk apresiasi.
+categories:
+  - essays
+  - print_media
 tags:
-  - blog
-  - writings
+  - consumed_magazine
+  - merchandise
+  - bootleg
+  - fake
 date: 2025-03-23
 ---
 
 ![](https://cdn-images-1.medium.com/max/716/1*AconveUC1NRSu0tVJdX7dQ.png)
+
+_Bootleg ≠ Fake. Tak semua pembajakan itu haram hukumnya. Pada kasus tertentu, "pembajakan" bisa berubah menjadi bentuk apresiasi._
+
+***
 
 Izinkan saya untuk mengucapkan terima kasih terlebih dulu kepada [The Panturas](https://twitter.com/thepanturas/status/1708366634703077477) dan juga [Sailboat Records](https://twitter.com/SailboatRecords/status/1708749266855018660). Bukan tanpa alasan, karena _tweet_ mereka berhasil menjadi _trigger_ diskusi mengenai t-shirt _bootleg_ dan _fake/KW_ di kalangan warganet dan juga alasan kenapa ide tulisan ini tercipta. Sepasang _tweet_ di mana The Panturas secara terbuka melakukan _call out_ pada brand yang membajak dan menjual desain kaos mereka, lalu direspon oleh Sailboat Records sekaligus mengembangkan narasi tersebut menjadi semakin seru untuk disimak dan ditanggapi.
 
@@ -39,9 +48,7 @@ Sedangkan merchandise _bootleg_ memiliki _attitude_ dan motif berbeda dibanding 
 
 Baik menggunakan aset foto _existing_ yang tersebar di internet lalu diolah sedemikian rupa, ataupun desain yang memang dibuat _from the ground up_. Selain itu, ada juga beberapa _bootlegger_ yang menjalin komunikasi terlebih dahulu dengan sang artis, untuk meminta izin atau sekedar berkorespondensi sebelum akhirnya merilis produk _bootleg_ tersebut. Sebuah _attitude_ pembeda yang kentara dibanding para produsen merchandise _fake._
 
-> Merchandise _bootleg_ biasanya secara terang-terangan dipasarkan dengan keterangan jelas sebagai _unofficial_ merchandise.
-
-> Tak seperti merchandise _fake_ yang biasanya diberi embel-embel “kualitas premium” atau lainnya untuk memberi kesan sebagai barang _official_.
+> Merchandise _bootleg_ biasanya secara terang-terangan dipasarkan dengan keterangan jelas sebagai _unofficial_ merchandise. Tak seperti merchandise _fake_ yang biasanya diberi embel-embel “kualitas premium” atau lainnya untuk memberi kesan sebagai barang _official_.
 
 Secara garis besar, bisa disimpulkan bahwa _bootleg_ dan _fake_ memang sama-sama diproduksi oleh individu atau kelompok di luar lingkaran si musisi itu sendiri. Tapi, apakah hal tersebut cukup untuk dijadikan alasan dan membuat keduanya menjadi sesuatu yang sangat diharamkan dan dibenci oleh semua musisi?
 
