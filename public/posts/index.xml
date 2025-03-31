@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on sendhiar-blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sendhiar.github.io/posts/</link>
     <description>Recent content in Posts on sendhiar-blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sendhiar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootlegging is Not (Always) a Crime</title>
-      <link>http://localhost:1313/posts/bootlegging-is-not-always-a-crime/</link>
+      <link>https://sendhiar.github.io/posts/bootlegging-is-not-always-a-crime/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bootlegging-is-not-always-a-crime/</guid>
+      <guid>https://sendhiar.github.io/posts/bootlegging-is-not-always-a-crime/</guid>
       <description>Bootleg ≠ Fake. Tak semua pembajakan itu haram hukumnya. Pada kasus tertentu, &amp;ldquo;pembajakan&amp;rdquo; bisa berubah menjadi bentuk apresiasi.</description>
     </item>
     <item>
       <title>woodcabin., Gegedug Midwest-Emo Lokal yang Terlupakan</title>
-      <link>http://localhost:1313/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</link>
+      <link>https://sendhiar.github.io/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</guid>
+      <guid>https://sendhiar.github.io/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</guid>
       <description>Jauh sebelum eleventwelfth muncul dan populer, Indonesia sebenarnya sudah memiliki band yang membawakan musik midwest-emo. Mereka adalah woodcabin.</description>
     </item>
     <item>
       <title>Lika-Liku Pemberian Nilai pada Sebuah Rilisan Musik</title>
-      <link>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
+      <link>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
+      <guid>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
       <description>Serius saya penasaran, seberapa penting atau efektifnya sih untuk menggunakan sistem angka penilaian pada sebuah review rilisan?</description>
     </item>
   </channel>

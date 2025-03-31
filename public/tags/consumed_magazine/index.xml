@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Consumed_magazine on sendhiar-blog</title>
-    <link>http://localhost:1313/tags/consumed_magazine/</link>
+    <link>https://sendhiar.github.io/tags/consumed_magazine/</link>
     <description>Recent content in Consumed_magazine on sendhiar-blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/consumed_magazine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sendhiar.github.io/tags/consumed_magazine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootlegging is Not (Always) a Crime</title>
-      <link>http://localhost:1313/posts/bootlegging-is-not-always-a-crime/</link>
+      <link>https://sendhiar.github.io/posts/bootlegging-is-not-always-a-crime/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/bootlegging-is-not-always-a-crime/</guid>
+      <guid>https://sendhiar.github.io/posts/bootlegging-is-not-always-a-crime/</guid>
       <description>Bootleg ≠ Fake. Tak semua pembajakan itu haram hukumnya. Pada kasus tertentu, &amp;ldquo;pembajakan&amp;rdquo; bisa berubah menjadi bentuk apresiasi.</description>
     </item>
     <item>
       <title>Lika-Liku Pemberian Nilai pada Sebuah Rilisan Musik</title>
-      <link>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
+      <link>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
+      <guid>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
       <description>Serius saya penasaran, seberapa penting atau efektifnya sih untuk menggunakan sistem angka penilaian pada sebuah review rilisan?</description>
     </item>
   </channel>
