@@ -60,7 +60,7 @@ Sebelum menjawab dan mengambil kesimpulan terkait hal tersebut, saya ingin menga
 
 Sepanjang masa aktifnya, **Fugazi** sebenarnya tak pernah sama sekali merilis merchandise kaos secara resmi. Anehnya, saat ini kamu bisa dengan mudah menemukan berbagai kaos bertuliskan nama pentolan post-hardcore tersebut dengan beragam desain. Sebenarnya itu semua merupakan ulah dari para _bootlegger_ yang membuat merchandise _unofficial_ dari Fugazi. Salah satu yang paling terkenal adalah **JSR Merchandising Group** pada era 90an.
 
-Sebenarnya mereka sempat ditegur langsung oleh Ian MacKaye terkait keberadaan merchandise _bootleg_ dari Fugazi tersebut. Namun alih-alih kapok, setelahnya JSR Merchandising Group malah membuat desain lain dengan tulisan ‘This is Not a Fugazi T-Shirt.’
+Sebenarnya mereka sempat ditegur langsung oleh Ian MacKaye terkait keberadaan merchandise _bootleg_ dari Fugazi tersebut. Namun alih-alih kapok, setelahnya JSR Merchandising Group malah membuat desain lain dengan tulisan ‘This is Not a Fugazi T-Shirt’
 
 {{< figure
   src = "https://i.ibb.co.com/JYDC8Dk/bootleg-fugazi.jpg"
