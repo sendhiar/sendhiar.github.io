@@ -1,6 +1,7 @@
 ---
 title: Lika-Liku Pemberian Nilai pada Sebuah Rilisan Musik
 summary: Serius saya penasaran, seberapa penting atau efektifnya sih untuk menggunakan sistem angka penilaian pada sebuah review rilisan?
+featured_image: review_musik.png
 categories:
   - essays
   - digital_media
@@ -9,7 +10,8 @@ tags:
   - review_musik
 date: 2025-03-21
 ---
-![](https://cdn-images-1.medium.com/max/716/1*EkPcCVpLvkOjRSuAoR9bDQ.png)
+{{< figure
+  src = "https://i.ibb.co.com/r2hZkMGW/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik.png" >}}
 
 _Serius saya penasaran, seberapa penting atau efektifnya sih untuk menggunakan sistem angka penilaian pada sebuah review rilisan?_
 
