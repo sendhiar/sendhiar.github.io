@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital_media on sendhiar-blog</title>
-    <link>https://sendhiar.github.io/categories/digital_media/</link>
+    <link>http://localhost:1313/categories/digital_media/</link>
     <description>Recent content in Digital_media on sendhiar-blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sendhiar.github.io/categories/digital_media/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/digital_media/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>woodcabin., Gegedug Midwest-Emo Lokal yang Terlupakan</title>
-      <link>https://sendhiar.github.io/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</link>
+      <link>http://localhost:1313/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</guid>
+      <guid>http://localhost:1313/posts/woodcabin.-gegedug-midwest-emo-lokal-yang-terlupakan/</guid>
       <description>Jauh sebelum eleventwelfth muncul dan populer, Indonesia sebenarnya sudah memiliki band yang membawakan musik midwest-emo. Mereka adalah woodcabin.</description>
     </item>
     <item>
       <title>Lika-Liku Pemberian Nilai pada Sebuah Rilisan Musik</title>
-      <link>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
+      <link>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
+      <guid>http://localhost:1313/posts/lika-liku-pemberian-nilai-pada-sebuah-rilisan-musik/</guid>
       <description>Serius saya penasaran, seberapa penting atau efektifnya sih untuk menggunakan sistem angka penilaian pada sebuah review rilisan?</description>
     </item>
   </channel>

@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on sendhiar-blog</title>
-    <link>https://sendhiar.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on sendhiar-blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sendhiar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootleg</title>
-      <link>https://sendhiar.github.io/tags/bootleg/</link>
+      <link>http://localhost:1313/tags/bootleg/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/bootleg/</guid>
+      <guid>http://localhost:1313/tags/bootleg/</guid>
       <description></description>
     </item>
     <item>
       <title>Consumed_magazine</title>
-      <link>https://sendhiar.github.io/tags/consumed_magazine/</link>
+      <link>http://localhost:1313/tags/consumed_magazine/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/consumed_magazine/</guid>
+      <guid>http://localhost:1313/tags/consumed_magazine/</guid>
       <description></description>
     </item>
     <item>
       <title>Fake</title>
-      <link>https://sendhiar.github.io/tags/fake/</link>
+      <link>http://localhost:1313/tags/fake/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/fake/</guid>
+      <guid>http://localhost:1313/tags/fake/</guid>
       <description></description>
     </item>
     <item>
       <title>Merchandise</title>
-      <link>https://sendhiar.github.io/tags/merchandise/</link>
+      <link>http://localhost:1313/tags/merchandise/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/merchandise/</guid>
+      <guid>http://localhost:1313/tags/merchandise/</guid>
       <description></description>
     </item>
     <item>
       <title>Midwest-Emo</title>
-      <link>https://sendhiar.github.io/tags/midwest-emo/</link>
+      <link>http://localhost:1313/tags/midwest-emo/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/midwest-emo/</guid>
+      <guid>http://localhost:1313/tags/midwest-emo/</guid>
       <description></description>
     </item>
     <item>
       <title>Twinkle</title>
-      <link>https://sendhiar.github.io/tags/twinkle/</link>
+      <link>http://localhost:1313/tags/twinkle/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/twinkle/</guid>
+      <guid>http://localhost:1313/tags/twinkle/</guid>
       <description></description>
     </item>
     <item>
       <title>Underrated_twinkle</title>
-      <link>https://sendhiar.github.io/tags/underrated_twinkle/</link>
+      <link>http://localhost:1313/tags/underrated_twinkle/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/underrated_twinkle/</guid>
+      <guid>http://localhost:1313/tags/underrated_twinkle/</guid>
       <description></description>
     </item>
     <item>
       <title>Woodcabin</title>
-      <link>https://sendhiar.github.io/tags/woodcabin/</link>
+      <link>http://localhost:1313/tags/woodcabin/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/woodcabin/</guid>
+      <guid>http://localhost:1313/tags/woodcabin/</guid>
       <description></description>
     </item>
     <item>
       <title>Review_musik</title>
-      <link>https://sendhiar.github.io/tags/review_musik/</link>
+      <link>http://localhost:1313/tags/review_musik/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://sendhiar.github.io/tags/review_musik/</guid>
+      <guid>http://localhost:1313/tags/review_musik/</guid>
       <description></description>
     </item>
   </channel>
