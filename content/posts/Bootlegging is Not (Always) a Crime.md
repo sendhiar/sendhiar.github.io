@@ -89,7 +89,7 @@ Pada beberapa kesempatan juga PTP ternyata berkorespondensi langsung dengan musi
 {{< blockquote >}}
 _“Aku pernah kolaborasi sama Margo Guryan. Waktu itu kita kontak karena IG-nya masih aktif dan ternyata yang pegang anaknya. Akhirnya terjadi kesepakatan bisnis dan sepakat pakai sistem sharing profit. Selain itu, ada juga Azymuth dan Cortex yang sempet kita kontak. Biasanya kalau musisinya masih aktif dan ada representatifnya, pasti kita kontak._
 
-_Semua itu kembali lagi ke manifesto dari PTP, yaitu ‘another way to pay a tribute to our idol.’ Karena sedari awal tujuannya memang buat pay a tribute aja. Jadi menurutku penting untuk jalin komunikasi sebelumnya kalau memang musisi yang bakalan di-bootleg itu masih aktif atau ngeluarin merchandise sendiri, ” tambahnya._
+_Semua itu kembali lagi ke manifesto dari PTP, yaitu ‘another way to pay a tribute to our idol.’ Karena sedari awal tujuannya memang buat pay a tribute aja. Jadi menurutku penting untuk jalin komunikasi sebelumnya kalau memang musisi yang bakalan di-bootleg itu masih aktif atau ngeluarin merchandise sendiri,” tambahnya._
 {{< /blockquote >}}
 
 Sebagai orang timur yang sangat menjunjung tinggi adab kesopanan, tentunya _attitude_ tersebut juga seharusnya dilakukan oleh para _bootlegger_ lokal lainnya. Sebagai bentuk _respect_ kepada sang idola. Sedangkan terkait kultur merchandise _bootleg_ di ranah lokal, Tama punya pendapatnya sendiri.
